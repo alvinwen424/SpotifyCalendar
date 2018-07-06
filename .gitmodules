@@ -1,0 +1,6 @@
+[submodule "CalendarFrontEnd"]
+	path = CalendarFrontEnd
+	url = https://github.com/alvinwen424/CalendarFrontEnd
+[submodule "SpotifyBackend"]
+	path = SpotifyBackend
+	url = https://github.com/alvinwen424/SpotifyBackend
